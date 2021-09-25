@@ -65,6 +65,9 @@ To solve this issue, follow below steps:  </p>
 <h3>You will see below screen:</h3>
 
 ![hello_14](pictures/hello_14.png)
+<p>When you click on above link, you will get below screen</p>
+
+![hello_15](pictures/hello_15.png)
 
 
 
