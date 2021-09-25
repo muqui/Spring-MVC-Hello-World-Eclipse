@@ -1,5 +1,6 @@
 # Spring-MVC-Hello-World-Eclipse
 <h2> prerequisites </h2>
+![](https://github.com/muqui/punto_venta_abarrotes/blob/master/images/crear_primer_usuario.png)
 <ul>
   <li>Java 11</li>
   <li>Eclipse ide Version: 2021-09 (4.21.0) </li>
