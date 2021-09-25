@@ -8,7 +8,7 @@
 <h3>Steps fro creating Spring MVC hello World!</h3>
 
 <p> 1) go to new -> project -> Maven Project and click on next</p>
-![Alt text](pictures/hello_01.png?raw=true "Title")
+![Alt text](https://github.com/muqui/Spring-MVC-Hello-World-Eclipse/blob/main/pictures/hello_00.png?raw=true)
 <p>2)You will see bwlow screen, agan click on next</p>
 ![hello_00](pictures/hello_01.png)
 <p>3) We need to select type of archetype here. As we are creating web app here, put following text in filter maven-archetype-webapp </p>
