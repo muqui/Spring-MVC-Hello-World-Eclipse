@@ -1,6 +1,6 @@
 # Spring-MVC-Hello-World-Eclipse
 <h2> prerequisites </h2>
-![](https://github.com/muqui/punto_venta_abarrotes/blob/master/images/crear_primer_usuario.png)
+
 <ul>
   <li>Java 11</li>
   <li>Eclipse ide Version: 2021-09 (4.21.0) </li>
@@ -9,10 +9,13 @@
 <h3>Steps fro creating Spring MVC hello World!</h3>
 
 <p> 1) go to new -> project -> Maven Project and click on next</p>
+
 ![Alt text](https://github.com/muqui/Spring-MVC-Hello-World-Eclipse/blob/main/pictures/hello_00.png?raw=true)
 <p>2)You will see bwlow screen, agan click on next</p>
+
 ![hello_00](pictures/hello_01.png)
 <p>3) We need to select type of archetype here. As we are creating web app here, put following text in filter maven-archetype-webapp </p>
+
 ![hello_02](pictures/hello_02.png)
 <p>4) We need to put group id and artifact id here.</p>
 ![hello_03](pictures/hello_03.png)
