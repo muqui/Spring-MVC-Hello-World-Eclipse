@@ -49,6 +49,24 @@ To solve this issue, follow below steps:  </p>
 <p>We need to configurate two files  "web.xml" and "springmvc-dispatcher-servlet.xml". </p>
 
 ![hello_10](pictures/hello_10.png)
+<p>create xml file named “springmvc-dispatcher-servlet.xml” in /WEB-INF folder as below.</p>
+
+![hello_11](pictures/hello_11.png)
+
+<p> We do maven  built</p>
+<p> Right click on project -> Run as -> Maven build </p>
+
+![hello_12](pictures/hello_12.png)
+<h3>Run the application</h3>
+<p>Right click on project -> run as -> run on server</p>
+<p>Select apache tomcat and click on finish</p>
+
+![hello_13](pictures/hello_13.png)
+<h3>You will see below screen:</h3>
+
+![hello_14](pictures/hello_14.png)
+
+
 
 
 
